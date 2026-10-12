@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.local.json
+live-quotes.json
+tool-responses/

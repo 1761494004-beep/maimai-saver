@@ -1,0 +1,13 @@
+{
+  "source": "recorded-live-verification",
+  "now": "2026-10-12T09:18:00+08:00",
+  "budget": 15,
+  "baselineTotal": 11.9,
+  "basketId": "507368:1:8008:0-0:1",
+  "storeId": "1960073",
+  "mode": "pickup",
+  "quotes": [
+    { "name": "无券门店促销（历史验证）", "basketId": "507368:1:8008:0-0:1", "storeId": "1960073", "mode": "pickup", "status": "verified", "conditionsConfirmed": true, "couponOwned": true, "total": 11.9, "conditions": "武汉宝利金餐厅，热美式中杯一杯不加奶；仅历史验证，不代表当前报价", "quotedAt": "2026-10-12T09:17:41+08:00", "expiresAt": "2026-10-12T09:22:41+08:00" },
+    { "name": "新人七折券（历史验证）", "basketId": "507368:1:8008:0-0:1", "storeId": "1960073", "mode": "pickup", "status": "verified", "conditionsConfirmed": true, "couponOwned": true, "total": 13.3, "conditions": "同一杯热美式，已持有且经门店官方试算；仅历史验证", "quotedAt": "2026-10-12T09:17:43+08:00", "expiresAt": "2026-10-12T09:22:43+08:00" }
+  ]
+}

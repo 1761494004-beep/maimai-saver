@@ -1,0 +1,9 @@
+{
+  "name": "maimai-saver",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "麦麦省钱助手：MCP Skill 与相同餐单优惠比较器",
+  "scripts": { "demo": "node scripts/compare.mjs examples/demo.json", "test": "node --test tests/compare.test.mjs" },
+  "engines": { "node": ">=18" }
+}

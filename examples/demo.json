@@ -1,0 +1,14 @@
+{
+  "source": "demo",
+  "now": "2026-10-12T12:00:00+08:00",
+  "budget": 30,
+  "baselineTotal": 35,
+  "basketId": "demo-fixed-basket",
+  "storeId": "demo-store",
+  "mode": "pickup",
+  "quotes": [
+    { "name": "无券方案", "basketId": "demo-fixed-basket", "storeId": "demo-store", "mode": "pickup", "status": "verified", "conditionsConfirmed": true, "couponOwned": true, "total": 35, "conditions": "虚构的同一餐单原价", "quotedAt": "2026-10-12T11:59:00+08:00", "expiresAt": "2026-10-12T12:05:00+08:00" },
+    { "name": "优惠券方案（虚构）", "basketId": "demo-fixed-basket", "storeId": "demo-store", "mode": "pickup", "status": "verified", "conditionsConfirmed": true, "couponOwned": true, "total": 27.5, "conditions": "虚构优惠，演示用途，不代表实际可购买", "quotedAt": "2026-10-12T11:59:00+08:00", "expiresAt": "2026-10-12T12:05:00+08:00" },
+    { "name": "未领取优惠券（虚构）", "basketId": "demo-fixed-basket", "storeId": "demo-store", "mode": "pickup", "status": "verified", "conditionsConfirmed": true, "couponOwned": false, "total": 20, "quotedAt": "2026-10-12T11:59:00+08:00", "expiresAt": "2026-10-12T12:05:00+08:00" }
+  ]
+}
